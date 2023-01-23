@@ -3,7 +3,7 @@ At Fruition®, we Build, Grow & Protect® companies and city, state and federal 
 A typical entry point to work together is through our help desk program where we can refine your digital growth, or fix, and secure your digital properties. 
 
 ### Accolades 
-We're a WordPress VIP, we have a team member on the Drupal security team, and we build cool new technologies supported by AI. 
+We're a WordPress VIP partner, we have a team member on the Drupal security team, and we build cool new technologies supported by AI. 
 
 ### More about Fruition
 
