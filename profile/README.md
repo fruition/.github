@@ -6,7 +6,7 @@ A typical entry point to work together is through our help desk program where we
 We are working at a feverish pitch to utilize AI for our clients. If you have an AI idea that can be applied to your business we're here to make it happen.  Let's chat AI: https://fruition.net/contact
 
 ## Accolades 
-We're a WordPress VIP partner, we have a team member on the Drupal security team, and we build cool new technologies supported by AI. We're also on many of the Best Places to Work lists.  
+We've grown several clients from SMBs to eight figure exits using our digital marketing skills.  We're a WordPress VIP partner. We're on the Drupal security team. We build cool new technologies supported by AI. We protect critical infrastructure. We've rooted out some state sponsored bad actors. We're also on many of the Best Places to Work lists.  
 
 ## More about Fruition
 Learn more at https://fruition.net
